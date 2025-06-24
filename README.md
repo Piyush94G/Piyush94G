@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Garg</h1>
-<h3 align="center">A passionate backend developer and AI/ML enthusiast from India</h3>
+<h3 align="center">A passionate backend developer and AI/ML enthusiast </h3>
 
 ---
 
