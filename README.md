@@ -30,7 +30,7 @@ Python • FastAPI • Scikit-learn • API Development • Backend Systems
 [GitHub Profile](https://github.com/Piyush94G)
 
 ### 📄 Know about my experiences
-[View My Resume](https://github.com/Piyush94G) *(Link to your resume file hosted on GitHub or elsewhere)*
+[View My Resume](https://piyush94g.github.io/Resume/) 
 
 ### ⚡ Fun fact
 I'm a kabaddi player and fitness freak who believes in building strong minds and stronger APIs 💪
