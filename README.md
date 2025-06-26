@@ -5,7 +5,7 @@
 
 ### 🔭 Worked on
 **Urban Green Space Monitoring**  
-🔗 [Project Repository](https://github.com/Piyush94G)
+🔗 [Project Repository](https://github.com/Piyush94G/Urban-Green-Space-Monitoring---Gurgaon-District.git)
 
 **Smart Helmet Safety System – A Real-Time Worker Protection IoT Project**  
 🔗 [Project Repository](https://github.com/Piyush94G)
