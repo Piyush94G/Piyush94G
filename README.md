@@ -11,7 +11,7 @@
 🔗 [Project Repository](https://github.com/Piyush94G)
 
 **Water Quality Analysis and Prediction**  
-🔗 [Project Repository](https://github.com/Piyush94G)
+🔗 [Project Repository](https://github.com/Piyush94G/Water-Quality-Analysis-and-Prediction.git)
 
 **Stock Market Sentiment Analysis Chatbot**  
 🔗 [Project Repository](https://github.com/Piyush94G)
