@@ -14,7 +14,7 @@
 🔗 [Project Repository](https://github.com/Piyush94G/Water-Quality-Analysis-and-Prediction.git)
 
 **Stock Market Sentiment Analysis Chatbot**  
-🔗 [Project Repository](https://github.com/Piyush94G)
+🔗 [Project Repository](https://github.com/Piyush94G/Stock-Market-Prediction-System.git)
 
 ### 🌱 I’m currently learning
 FastAPI • Docker • Advanced ML Techniques • Google Cloud Platform (GCP)
