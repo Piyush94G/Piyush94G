@@ -13,7 +13,7 @@
 **Water Quality Analysis and Prediction**  
 🔗 [Project Repository](https://github.com/Piyush94G/Water-Quality-Analysis-and-Prediction.git)
 
-**Stock Market Sentiment Analysis Chatbot**  
+**Stock Market Prediction System**  
 🔗 [Project Repository](https://github.com/Piyush94G/Stock-Market-Prediction-System.git)
 
 ### 🌱 I’m currently learning
