@@ -8,7 +8,7 @@
 🔗 [Project Repository](https://github.com/Piyush94G/Urban-Green-Space-Monitoring---Gurgaon-District.git)
 
 **Smart Helmet Safety System – A Real-Time Worker Protection IoT Project**  
-🔗 [Project Repository](https://github.com/Piyush94G)
+🔗 [Project Repository](https://github.com/Piyush94G/Smart-Helmet.git)
 
 **Water Quality Analysis and Prediction**  
 🔗 [Project Repository](https://github.com/Piyush94G/Water-Quality-Analysis-and-Prediction.git)
