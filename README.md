@@ -16,12 +16,6 @@
 **Stock Market Sentiment Analysis Chatbot**  
 🔗 [Project Repository](https://github.com/Piyush94G/Stock-Market-Prediction-System.git)
 
-### 🌱 I’m currently learning
-FastAPI • Docker • Advanced ML Techniques • Google Cloud Platform (GCP)
-
-### 💬 Ask me about
-Python • FastAPI • Scikit-learn • API Development • Backend Systems
-
 ### 📫 How to reach me
 📧 piyushgarg746@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/piyush-garg)
@@ -33,7 +27,7 @@ Python • FastAPI • Scikit-learn • API Development • Backend Systems
 [View My Resume](https://piyush94g.github.io/Resume/) 
 
 ### ⚡ Fun fact
-I'm a kabaddi player and fitness freak who believes in building strong minds and stronger APIs 💪
+I'm a kabaddi player and fitness freak who believes in building strong minds and stronger backend systems. 💪
 
 ---
 
