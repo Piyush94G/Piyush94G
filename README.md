@@ -24,7 +24,7 @@
 [GitHub Profile](https://github.com/Piyush94G)
 
 ### 📄 Know about my experiences
-[View My Resume](https://piyush94g.github.io/Resume/) 
+[View My Resume](https://piyush94g.github.io/Portfolio/) 
 
 ### ⚡ Fun fact
 I'm a kabaddi player and fitness freak who believes in building strong minds and stronger backend systems. 💪
